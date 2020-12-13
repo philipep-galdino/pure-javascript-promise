@@ -1,6 +1,6 @@
 /*
-/   A simple promise example created purely with
-/   Javascript basic functions. 
+/   A simple promise working example created  
+/   with Pure Javascript. 
 /
 /   It will always return a random dog image.
 */
