@@ -1,6 +1,6 @@
 _This whole Promise work-out idea and explanation comes from Roger Melo video on Promises as it's in pure Javascript._
 
-Click below to be redirected to the video in portuguese-brazilian.
+Click below to be redirected to the video in portuguese-brazilian - there's no english version.
 
 [Video](https://www.youtube.com/watch?v=wTGPhsGJ0sw "Video Link")
 # Promises
